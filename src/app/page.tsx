@@ -22,7 +22,6 @@ async function Images() {
               //  alt={image.name}
             />
           </Link>
-          {/* <div>{image.name}</div> */}
         </div>
       ))}
     </div>

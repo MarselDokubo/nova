@@ -11,7 +11,7 @@
 - [x] Taint (server only)
 - [x] Add image optimizer
 - [x] Error management (w/ Sentry)
-- [ ] Routing/ Individual image page (parallel routes)
+- [x] Routing/ Individual image page (parallel routes)
 - [ ] delete button (w/ Server actions)
 - [ ] Analytics (posting)
 - [ ] Ratelimiting (upstash)
