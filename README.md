@@ -7,7 +7,7 @@
 - [x] Tidy up build process
 - [x] Set up the database (w/ Vercel postgress)
 - [x] Attach the database to ui
-- [ ] Add Authentication (w/ Clerk)
+- [x] Add Authentication (w/ Clerk)
 - [] Taint (server only)
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
