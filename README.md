@@ -8,8 +8,8 @@
 - [x] Set up the database (w/ Vercel postgress)
 - [x] Attach the database to ui
 - [x] Add Authentication (w/ Clerk)
-- [] Taint (server only)
-- [ ] Add image upload
+- [x] Taint (server only)
+- [x] Add image optimizer
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/ Individual image page (parallel routes)
 - [ ] delete button (w/ Server actions)
