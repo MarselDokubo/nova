@@ -10,7 +10,7 @@
 - [x] Add Authentication (w/ Clerk)
 - [x] Taint (server only)
 - [x] Add image optimizer
-- [ ] Error management (w/ Sentry)
+- [x] Error management (w/ Sentry)
 - [ ] Routing/ Individual image page (parallel routes)
 - [ ] delete button (w/ Server actions)
 - [ ] Analytics (posting)
