@@ -12,6 +12,7 @@
 - [x] Add image optimizer
 - [x] Error management (w/ Sentry)
 - [x] Routing/ Individual image page (parallel routes)
-- [ ] delete button (w/ Server actions)
+- [x] Customize the uploadthing button
 - [ ] Analytics (posting)
+- [ ] delete button (w/ Server actions)
 - [ ] Ratelimiting (upstash)
